@@ -1,0 +1,34 @@
+{
+  "Food": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Snacks"
+  ],
+  "Travel": [
+    "Metro",
+    "Bus",
+    "Cab",
+    "Train"
+  ],
+  "Shopping": [
+    "Clothes",
+    "Electronics",
+    "Accessories"
+  ],
+  "Bills": [
+    "Electricity",
+    "Internet",
+    "Phone"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Games",
+    "Subscriptions"
+  ],
+  "Education": [
+    "Books",
+    "Courses",
+    "Stationery"
+  ]
+}
